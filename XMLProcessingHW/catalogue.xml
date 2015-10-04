@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue>
+  <album>
+    <name>
+      Kill'em all
+    </name>
+    <artist>
+      Metallica
+    </artist>
+    <year>
+      1983
+    </year>
+    <producer>
+      Paul Curcio
+    </producer>
+    <price>
+      21
+    </price>
+    <songs>
+      <song>
+        <title>
+          Hit the Lights
+        </title>
+        <duration>
+          4:16
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Four Horsemen
+        </title>
+        <duration>
+          7:13
+        </duration>
+      </song>
+      <song>
+        <title>
+          Motorbreath
+        </title>
+        <duration>
+          3:08
+        </duration>
+      </song>
+      <song>
+        <title>
+          Jump in the Fire
+        </title>
+        <duration>
+          4:41
+        </duration>
+      </song>
+      <song>
+        <title>
+          (Anesthesia) - Pulling Teeth
+        </title>
+        <duration>
+          4:15
+        </duration>
+      </song>
+      <song>
+        <title>
+          Whiplash
+        </title>
+        <duration>
+          4:10
+        </duration>
+      </song>
+      <song>
+        <title>
+          Phantom Lord
+        </title>
+        <duration>
+          5:02
+        </duration>
+      </song>
+      <song>
+        <title>
+          No Remorse
+        </title>
+        <duration>
+          6:26
+        </duration>
+      </song>
+      <song>
+        <title>
+          Seek &amp; Destroy
+        </title>
+        <duration>
+          6:55
+        </duration>
+      </song>
+      <song>
+        <title>
+          Metal Militia
+        </title>
+        <duration>
+          5:09
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Ride The Lightning
+    </name>
+    <artist>
+      Metallica
+    </artist>
+    <year>
+      1984
+    </year>
+    <producer>
+      Metallica, Flemming Rasmussen
+    </producer>
+    <price>
+      22
+    </price>
+    <songs>
+      <song>
+        <title>
+          Fight Fire with Fire
+        </title>
+        <duration>
+          4:45
+        </duration>
+      </song>
+      <song>
+        <title>
+          Ride the Lightning
+        </title>
+        <duration>
+          6:36
+        </duration>
+      </song>
+      <song>
+        <title>
+          For Whom the Bell Tolls
+        </title>
+        <duration>
+          5:09
+        </duration>
+      </song>
+      <song>
+        <title>
+          Fade to Black
+        </title>
+        <duration>
+          6:57
+        </duration>
+      </song>
+      <song>
+        <title>
+          Trapped Under Ice
+        </title>
+        <duration>
+          4:04
+        </duration>
+      </song>
+      <song>
+        <title>
+          Escape
+        </title>
+        <duration>
+          4:23
+        </duration>
+      </song>
+      <song>
+        <title>
+          Creeping Death
+        </title>
+        <duration>
+          6:36
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Call of Ktulu
+        </title>
+        <duration>
+          8:53
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Master of Puppets
+    </name>
+    <artist>
+      Metallica
+    </artist>
+    <year>
+      1986
+    </year>
+    <producer>
+      Metallica, Flemming Rasmussen
+    </producer>
+    <price>
+      19
+    </price>
+    <songs>
+      <song>
+        <title>
+          Battery
+        </title>
+        <duration>
+          5:12
+        </duration>
+      </song>
+      <song>
+        <title>
+          Master of Puppets
+        </title>
+        <duration>
+          8:36
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Thing That Should Not Be
+        </title>
+        <duration>
+          6:37
+        </duration>
+      </song>
+      <song>
+        <title>
+          Welcome Home (Sanitarium)
+        </title>
+        <duration>
+          6:27
+        </duration>
+      </song>
+      <song>
+        <title>
+          Disposable Heroes
+        </title>
+        <duration>
+          8:17
+        </duration>
+      </song>
+      <song>
+        <title>
+          Leper Messiah
+        </title>
+        <duration>
+          5:40
+        </duration>
+      </song>
+      <song>
+        <title>
+          Orion
+        </title>
+        <duration>
+          8:28
+        </duration>
+      </song>
+      <song>
+        <title>
+          Damage, Inc.
+        </title>
+        <duration>
+          5:29
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Iron Maiden
+    </name>
+    <artist>
+      Iron Maiden
+    </artist>
+    <year>
+      1980
+    </year>
+    <producer>
+      Will Malone
+    </producer>
+    <price>
+      18
+    </price>
+    <songs>
+      <song>
+        <title>
+          Prowler
+        </title>
+        <duration>
+          3:55
+        </duration>
+      </song>
+      <song>
+        <title>
+          Remember Tomorrow
+        </title>
+        <duration>
+          5:27
+        </duration>
+      </song>
+      <song>
+        <title>
+          Running Free
+        </title>
+        <duration>
+          3:16
+        </duration>
+      </song>
+      <song>
+        <title>
+          Phantom of the Opera
+        </title>
+        <duration>
+          7:20
+        </duration>
+      </song>
+      <song>
+        <title>
+          Transylvania
+        </title>
+        <duration>
+          4:05
+        </duration>
+      </song>
+      <song>
+        <title>
+          Strange World
+        </title>
+        <duration>
+          5:45
+        </duration>
+      </song>
+      <song>
+        <title>
+          Charlotte the Harlot
+        </title>
+        <duration>
+          4:12
+        </duration>
+      </song>
+      <song>
+        <title>
+          Iron Maiden
+        </title>
+        <duration>
+          3:35
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Killers
+    </name>
+    <artist>
+      Iron Maiden
+    </artist>
+    <year>
+      1981
+    </year>
+    <producer>
+      Martin Birch
+    </producer>
+    <price>
+      17
+    </price>
+    <songs>
+      <song>
+        <title>
+          The Ides of March
+        </title>
+        <duration>
+          1:48
+        </duration>
+      </song>
+      <song>
+        <title>
+          Wrathchild
+        </title>
+        <duration>
+          2:54
+        </duration>
+      </song>
+      <song>
+        <title>
+          Murders in the Rue Morgue
+        </title>
+        <duration>
+          4:14
+        </duration>
+      </song>
+      <song>
+        <title>
+          Another Life
+        </title>
+        <duration>
+          3:22
+        </duration>
+      </song>
+      <song>
+        <title>
+          Genghis Khan
+        </title>
+        <duration>
+          3:02
+        </duration>
+      </song>
+      <song>
+        <title>
+          Innocent Exile
+        </title>
+        <duration>
+          3:50
+        </duration>
+      </song>
+      <song>
+        <title>
+          Killers
+        </title>
+        <duration>
+          4:58
+        </duration>
+      </song>
+      <song>
+        <title>
+          Prodigal Son
+        </title>
+        <duration>
+          6:05
+        </duration>
+      </song>
+      <song>
+        <title>
+          Purgatory
+        </title>
+        <duration>
+          3:18
+        </duration>
+      </song>
+      <song>
+        <title>
+          Drifter
+        </title>
+        <duration>
+          4:47
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      The Number of the Beast
+    </name>
+    <artist>
+      Iron Maiden
+    </artist>
+    <year>
+      1982
+    </year>
+    <producer>
+      Martin Birch
+    </producer>
+    <price>
+      22
+    </price>
+    <songs>
+      <song>
+        <title>
+          Invaders
+        </title>
+        <duration>
+          3:20
+        </duration>
+      </song>
+      <song>
+        <title>
+          Children of the Damned
+        </title>
+        <duration>
+          4:34
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Prisoner
+        </title>
+        <duration>
+          5:34
+        </duration>
+      </song>
+      <song>
+        <title>
+          22 Acacia Avenue
+        </title>
+        <duration>
+          6:34
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Number of the Beast
+        </title>
+        <duration>
+          4:25
+        </duration>
+      </song>
+      <song>
+        <title>
+          Run to the Hills
+        </title>
+        <duration>
+          3:50
+        </duration>
+      </song>
+      <song>
+        <title>
+          Gangland
+        </title>
+        <duration>
+          3:46
+        </duration>
+      </song>
+      <song>
+        <title>
+          Hallowed Be Thy Name
+        </title>
+        <duration>
+          7:08
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Raw Power
+    </name>
+    <artist>
+      Iggy Pop
+    </artist>
+    <year>
+      1973
+    </year>
+    <producer>
+      David Bowie, Iggy Pop
+    </producer>
+    <price>
+      18
+    </price>
+    <songs>
+      <song>
+        <title>
+          Search and Destroy
+        </title>
+        <duration>
+          3:29
+        </duration>
+      </song>
+      <song>
+        <title>
+          Gimme Danger
+        </title>
+        <duration>
+          3:33
+        </duration>
+      </song>
+      <song>
+        <title>
+          Your Pretty Face Is Going to Hell
+        </title>
+        <duration>
+          4:54
+        </duration>
+      </song>
+      <song>
+        <title>
+          Penetration
+        </title>
+        <duration>
+          3:41
+        </duration>
+      </song>
+      <song>
+        <title>
+          Raw Power
+        </title>
+        <duration>
+          4:16
+        </duration>
+      </song>
+      <song>
+        <title>
+          I Need Somebody
+        </title>
+        <duration>
+          4:53
+        </duration>
+      </song>
+      <song>
+        <title>
+          Shake Appeal
+        </title>
+        <duration>
+          3:04
+        </duration>
+      </song>
+      <song>
+        <title>
+          Death Trip
+        </title>
+        <duration>
+          6:07
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Lust for Life
+    </name>
+    <artist>
+      Iggy Pop
+    </artist>
+    <year>
+      1977
+    </year>
+    <producer>
+      David Bowie, Iggy Pop, Colin Thurston
+    </producer>
+    <price>
+      21
+    </price>
+    <songs>
+      <song>
+        <title>
+          Lust for Life
+        </title>
+        <duration>
+          5:13
+        </duration>
+      </song>
+      <song>
+        <title>
+          Sixteen
+        </title>
+        <duration>
+          2:26
+        </duration>
+      </song>
+      <song>
+        <title>
+          Some Weird Sin
+        </title>
+        <duration>
+          3:42
+        </duration>
+      </song>
+      <song>
+        <title>
+          The Passenger
+        </title>
+        <duration>
+          4:44
+        </duration>
+      </song>
+      <song>
+        <title>
+          Tonight
+        </title>
+        <duration>
+          3:39
+        </duration>
+      </song>
+      <song>
+        <title>
+          Success
+        </title>
+        <duration>
+          4:25
+        </duration>
+      </song>
+      <song>
+        <title>
+          Turn Blue
+        </title>
+        <duration>
+          6:56
+        </duration>
+      </song>
+      <song>
+        <title>
+          Neighborhood Threat
+        </title>
+        <duration>
+          3:25
+        </duration>
+      </song>
+      <song>
+        <title>
+          Fall in Love with Me
+        </title>
+        <duration>
+          6:30
+        </duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
